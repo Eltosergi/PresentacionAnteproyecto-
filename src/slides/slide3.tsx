@@ -256,7 +256,7 @@ const CONTEXTO = [
   "Este trabajo se enfoca en el largo plazo, el nivel estratégico.",
   "Una mina a cielo abierto se representa como un gran conjunto de bloques de roca.",
   "Planificar a largo plazo es decidir qué bloques sacar y en qué año, buscando el mayor valor económico (VAN).",
-  "Pero no se sabe con certeza como es la forma de la veta. pero si estimaciones.",
+  "Pero no se sabe con certeza como es la forma de la veta. pero si estimaciones. ",
 ];
 const PASO_FLUJO = CONTEXTO.length;
 
@@ -284,7 +284,7 @@ function anioDelBloque(fila: number, columna: number) {
   return 0;
 }
 
-// Bloques con mineral según cada escenario geológico.
+// Bloques con mineral según cada escenario geológico xde.
 const ESCENARIOS_MINA = [
   ["2-8", "2-9", "3-8", "3-9", "3-10", "4-9", "4-10", "5-10"],
   ["2-10", "2-11", "3-10", "3-11", "3-12", "4-11", "4-12", "5-12", "4-10"],
