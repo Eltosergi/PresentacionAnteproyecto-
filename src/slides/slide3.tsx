@@ -256,7 +256,7 @@ const CONTEXTO = [
   "Este trabajo se enfoca en el largo plazo, el nivel estratégico.",
   "Una mina a cielo abierto se representa como un gran conjunto de bloques de roca.",
   "Planificar a largo plazo es decidir qué bloques sacar y en qué año, buscando el mayor valor económico (VAN).",
-  "Pero no se sabe con certeza cuánto mineral tiene cada bloque: se trabaja con varios escenarios posibles.",
+  "Pero no se sabe con certeza como es la forma de la veta. pero si estimaciones.",
 ];
 const PASO_FLUJO = CONTEXTO.length;
 
